@@ -1,0 +1,88 @@
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\x86\SqlServerSpatial160.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\x64\SqlServerSpatial160.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\Tharu Communtiy.exe.config
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\Tharu Communtiy.exe.manifest
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\Tharu Communtiy.application
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\Tharu Communtiy.exe
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\Tharu Communtiy.pdb
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\EnvDTE.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\stdole.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu Communtiy.csproj.AssemblyReference.cache
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu_Communtiy.ChangePassword.resources
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu_Communtiy.EditPage.resources
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu_Communtiy.Form1.resources
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu_Communtiy.HomePage.resources
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu_Communtiy.InstallmentForm.resources
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu_Communtiy.Loan_Form.resources
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu_Communtiy.MembersCRUD.resources
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu_Communtiy.MemberStatement.resources
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu_Communtiy.MonthlyInstallment.resources
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu_Communtiy.MonthlyLoanReport.resources
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu_Communtiy.MonthlyPayEdit.resources
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu_Communtiy.MonthlyReport.resources
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu_Communtiy.Properties.Resources.resources
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu_Communtiy.StatementForms.resources
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu_Communtiy.UpdateDeleteMember.resources
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu Communtiy.csproj.GenerateResource.cache
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu Communtiy.csproj.CoreCompileInputs.cache
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu Communtiy.exe.manifest
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu Communtiy.application
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu Co.B76B09E6.Up2Date
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu Communtiy.exe
+C:\Users\sujus\source\repos\Tharu Communtiy\Tharu Communtiy\obj\Release\Tharu Communtiy.pdb
